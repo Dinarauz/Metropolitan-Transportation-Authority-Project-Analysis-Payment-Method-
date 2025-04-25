@@ -9,7 +9,8 @@ Key Focus:
 -Comparing **MetroCard** and **OMNY** adoption over time by fare class and borough.
 
 Interactive Dashboard:
--https://public.tableau.com/app/profile/yourname/viz/mta_dashboard](https://public.tableau.com/app/profile/yourname/viz/mta_dashboard)
+-https://public.tableau.com/app/profile/dinara.ibotova/viz/MTAproject_17455507165240/Dashboard1?publish=yes
+
 
 Raw Data:
 
