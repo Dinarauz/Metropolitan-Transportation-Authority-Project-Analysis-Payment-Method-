@@ -1,0 +1,601 @@
+year,payment_method,ridership_x,fare_class_category,ridership_y,percentage,borough,ridership
+2020,metrocard,6867230,Metrocard - Fair Fare,3387927.0,5.193391950026107,Bronx,595532.0
+2020,metrocard,6867230,Metrocard - Fair Fare,3387927.0,5.193391950026107,Brooklyn,986840.0
+2020,metrocard,6867230,Metrocard - Fair Fare,3387927.0,5.193391950026107,Manhattan,1270311.0
+2020,metrocard,6867230,Metrocard - Fair Fare,3387927.0,5.193391950026107,Queens,529518.0
+2020,metrocard,6867230,Metrocard - Fair Fare,3387927.0,5.193391950026107,Staten Island,5726.0
+2020,metrocard,6867230,Metrocard - Full Fare,26211292.0,40.1795885426645,Bronx,2609495.0
+2020,metrocard,6867230,Metrocard - Full Fare,26211292.0,40.1795885426645,Brooklyn,6321584.0
+2020,metrocard,6867230,Metrocard - Full Fare,26211292.0,40.1795885426645,Manhattan,12283216.0
+2020,metrocard,6867230,Metrocard - Full Fare,26211292.0,40.1795885426645,Queens,4917963.0
+2020,metrocard,6867230,Metrocard - Full Fare,26211292.0,40.1795885426645,Staten Island,79034.0
+2020,metrocard,6867230,Metrocard - Other,4959505.0,7.602481795833921,Bronx,561790.0
+2020,metrocard,6867230,Metrocard - Other,4959505.0,7.602481795833921,Brooklyn,1317892.0
+2020,metrocard,6867230,Metrocard - Other,4959505.0,7.602481795833921,Manhattan,2230707.0
+2020,metrocard,6867230,Metrocard - Other,4959505.0,7.602481795833921,Queens,831098.0
+2020,metrocard,6867230,Metrocard - Other,4959505.0,7.602481795833921,Staten Island,18018.0
+2020,metrocard,6867230,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Bronx,330938.0
+2020,metrocard,6867230,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Brooklyn,1041879.0
+2020,metrocard,6867230,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Manhattan,1934287.0
+2020,metrocard,6867230,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Queens,760612.0
+2020,metrocard,6867230,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Staten Island,11304.0
+2020,metrocard,6867230,Metrocard - Students,3984998.0,6.1086488977094655,Bronx,569521.0
+2020,metrocard,6867230,Metrocard - Students,3984998.0,6.1086488977094655,Brooklyn,1325607.0
+2020,metrocard,6867230,Metrocard - Students,3984998.0,6.1086488977094655,Manhattan,1288431.0
+2020,metrocard,6867230,Metrocard - Students,3984998.0,6.1086488977094655,Queens,792786.0
+2020,metrocard,6867230,Metrocard - Students,3984998.0,6.1086488977094655,Staten Island,8653.0
+2020,metrocard,6867230,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Bronx,951388.0
+2020,metrocard,6867230,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Brooklyn,2890562.0
+2020,metrocard,6867230,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Manhattan,4735581.0
+2020,metrocard,6867230,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Queens,2182868.0
+2020,metrocard,6867230,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Staten Island,12772.0
+2020,metrocard,6867230,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Bronx,1520792.0
+2020,metrocard,6867230,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Brooklyn,2598696.0
+2020,metrocard,6867230,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Manhattan,5282043.0
+2020,metrocard,6867230,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Queens,2427054.0
+2020,metrocard,6867230,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Staten Island,10844.0
+2020,metrocard,6867230,OMNY - Fair Fare,0.0,0.0,Bronx,1.0
+2020,metrocard,6867230,OMNY - Fair Fare,0.0,0.0,Brooklyn,42.0
+2020,metrocard,6867230,OMNY - Fair Fare,0.0,0.0,Manhattan,12.0
+2020,metrocard,6867230,OMNY - Fair Fare,0.0,0.0,Queens,5.0
+2020,metrocard,6867230,OMNY - Fair Fare,0.0,0.0,Staten Island,0.0
+2020,metrocard,6867230,OMNY - Full Fare,0.0,0.0,Bronx,2201246.0
+2020,metrocard,6867230,OMNY - Full Fare,0.0,0.0,Brooklyn,8536173.0
+2020,metrocard,6867230,OMNY - Full Fare,0.0,0.0,Manhattan,19367227.0
+2020,metrocard,6867230,OMNY - Full Fare,0.0,0.0,Queens,5232848.0
+2020,metrocard,6867230,OMNY - Full Fare,0.0,0.0,Staten Island,40017.0
+2020,metrocard,6867230,OMNY - Other,0.0,0.0,Bronx,6843.0
+2020,metrocard,6867230,OMNY - Other,0.0,0.0,Brooklyn,12128.0
+2020,metrocard,6867230,OMNY - Other,0.0,0.0,Manhattan,24722.0
+2020,metrocard,6867230,OMNY - Other,0.0,0.0,Queens,10117.0
+2020,metrocard,6867230,OMNY - Other,0.0,0.0,Staten Island,585.0
+2020,metrocard,6867230,OMNY - Seniors & Disability,0.0,0.0,Bronx,4101.0
+2020,metrocard,6867230,OMNY - Seniors & Disability,0.0,0.0,Brooklyn,23846.0
+2020,metrocard,6867230,OMNY - Seniors & Disability,0.0,0.0,Manhattan,96536.0
+2020,metrocard,6867230,OMNY - Seniors & Disability,0.0,0.0,Queens,15837.0
+2020,metrocard,6867230,OMNY - Seniors & Disability,0.0,0.0,Staten Island,244.0
+2020,metrocard,6867230,OMNY - Students,0.0,0.0,Bronx,54307.0
+2020,metrocard,6867230,OMNY - Students,0.0,0.0,Brooklyn,120889.0
+2020,metrocard,6867230,OMNY - Students,0.0,0.0,Manhattan,109991.0
+2020,metrocard,6867230,OMNY - Students,0.0,0.0,Queens,73935.0
+2020,metrocard,6867230,OMNY - Students,0.0,0.0,Staten Island,860.0
+2021,metrocard,15709643,Metrocard - Fair Fare,3387927.0,5.193391950026107,Bronx,595532.0
+2021,metrocard,15709643,Metrocard - Fair Fare,3387927.0,5.193391950026107,Brooklyn,986840.0
+2021,metrocard,15709643,Metrocard - Fair Fare,3387927.0,5.193391950026107,Manhattan,1270311.0
+2021,metrocard,15709643,Metrocard - Fair Fare,3387927.0,5.193391950026107,Queens,529518.0
+2021,metrocard,15709643,Metrocard - Fair Fare,3387927.0,5.193391950026107,Staten Island,5726.0
+2021,metrocard,15709643,Metrocard - Full Fare,26211292.0,40.1795885426645,Bronx,2609495.0
+2021,metrocard,15709643,Metrocard - Full Fare,26211292.0,40.1795885426645,Brooklyn,6321584.0
+2021,metrocard,15709643,Metrocard - Full Fare,26211292.0,40.1795885426645,Manhattan,12283216.0
+2021,metrocard,15709643,Metrocard - Full Fare,26211292.0,40.1795885426645,Queens,4917963.0
+2021,metrocard,15709643,Metrocard - Full Fare,26211292.0,40.1795885426645,Staten Island,79034.0
+2021,metrocard,15709643,Metrocard - Other,4959505.0,7.602481795833921,Bronx,561790.0
+2021,metrocard,15709643,Metrocard - Other,4959505.0,7.602481795833921,Brooklyn,1317892.0
+2021,metrocard,15709643,Metrocard - Other,4959505.0,7.602481795833921,Manhattan,2230707.0
+2021,metrocard,15709643,Metrocard - Other,4959505.0,7.602481795833921,Queens,831098.0
+2021,metrocard,15709643,Metrocard - Other,4959505.0,7.602481795833921,Staten Island,18018.0
+2021,metrocard,15709643,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Bronx,330938.0
+2021,metrocard,15709643,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Brooklyn,1041879.0
+2021,metrocard,15709643,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Manhattan,1934287.0
+2021,metrocard,15709643,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Queens,760612.0
+2021,metrocard,15709643,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Staten Island,11304.0
+2021,metrocard,15709643,Metrocard - Students,3984998.0,6.1086488977094655,Bronx,569521.0
+2021,metrocard,15709643,Metrocard - Students,3984998.0,6.1086488977094655,Brooklyn,1325607.0
+2021,metrocard,15709643,Metrocard - Students,3984998.0,6.1086488977094655,Manhattan,1288431.0
+2021,metrocard,15709643,Metrocard - Students,3984998.0,6.1086488977094655,Queens,792786.0
+2021,metrocard,15709643,Metrocard - Students,3984998.0,6.1086488977094655,Staten Island,8653.0
+2021,metrocard,15709643,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Bronx,951388.0
+2021,metrocard,15709643,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Brooklyn,2890562.0
+2021,metrocard,15709643,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Manhattan,4735581.0
+2021,metrocard,15709643,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Queens,2182868.0
+2021,metrocard,15709643,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Staten Island,12772.0
+2021,metrocard,15709643,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Bronx,1520792.0
+2021,metrocard,15709643,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Brooklyn,2598696.0
+2021,metrocard,15709643,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Manhattan,5282043.0
+2021,metrocard,15709643,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Queens,2427054.0
+2021,metrocard,15709643,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Staten Island,10844.0
+2021,metrocard,15709643,OMNY - Fair Fare,0.0,0.0,Bronx,1.0
+2021,metrocard,15709643,OMNY - Fair Fare,0.0,0.0,Brooklyn,42.0
+2021,metrocard,15709643,OMNY - Fair Fare,0.0,0.0,Manhattan,12.0
+2021,metrocard,15709643,OMNY - Fair Fare,0.0,0.0,Queens,5.0
+2021,metrocard,15709643,OMNY - Fair Fare,0.0,0.0,Staten Island,0.0
+2021,metrocard,15709643,OMNY - Full Fare,0.0,0.0,Bronx,2201246.0
+2021,metrocard,15709643,OMNY - Full Fare,0.0,0.0,Brooklyn,8536173.0
+2021,metrocard,15709643,OMNY - Full Fare,0.0,0.0,Manhattan,19367227.0
+2021,metrocard,15709643,OMNY - Full Fare,0.0,0.0,Queens,5232848.0
+2021,metrocard,15709643,OMNY - Full Fare,0.0,0.0,Staten Island,40017.0
+2021,metrocard,15709643,OMNY - Other,0.0,0.0,Bronx,6843.0
+2021,metrocard,15709643,OMNY - Other,0.0,0.0,Brooklyn,12128.0
+2021,metrocard,15709643,OMNY - Other,0.0,0.0,Manhattan,24722.0
+2021,metrocard,15709643,OMNY - Other,0.0,0.0,Queens,10117.0
+2021,metrocard,15709643,OMNY - Other,0.0,0.0,Staten Island,585.0
+2021,metrocard,15709643,OMNY - Seniors & Disability,0.0,0.0,Bronx,4101.0
+2021,metrocard,15709643,OMNY - Seniors & Disability,0.0,0.0,Brooklyn,23846.0
+2021,metrocard,15709643,OMNY - Seniors & Disability,0.0,0.0,Manhattan,96536.0
+2021,metrocard,15709643,OMNY - Seniors & Disability,0.0,0.0,Queens,15837.0
+2021,metrocard,15709643,OMNY - Seniors & Disability,0.0,0.0,Staten Island,244.0
+2021,metrocard,15709643,OMNY - Students,0.0,0.0,Bronx,54307.0
+2021,metrocard,15709643,OMNY - Students,0.0,0.0,Brooklyn,120889.0
+2021,metrocard,15709643,OMNY - Students,0.0,0.0,Manhattan,109991.0
+2021,metrocard,15709643,OMNY - Students,0.0,0.0,Queens,73935.0
+2021,metrocard,15709643,OMNY - Students,0.0,0.0,Staten Island,860.0
+2022,metrocard,16815194,Metrocard - Fair Fare,3387927.0,5.193391950026107,Bronx,595532.0
+2022,metrocard,16815194,Metrocard - Fair Fare,3387927.0,5.193391950026107,Brooklyn,986840.0
+2022,metrocard,16815194,Metrocard - Fair Fare,3387927.0,5.193391950026107,Manhattan,1270311.0
+2022,metrocard,16815194,Metrocard - Fair Fare,3387927.0,5.193391950026107,Queens,529518.0
+2022,metrocard,16815194,Metrocard - Fair Fare,3387927.0,5.193391950026107,Staten Island,5726.0
+2022,metrocard,16815194,Metrocard - Full Fare,26211292.0,40.1795885426645,Bronx,2609495.0
+2022,metrocard,16815194,Metrocard - Full Fare,26211292.0,40.1795885426645,Brooklyn,6321584.0
+2022,metrocard,16815194,Metrocard - Full Fare,26211292.0,40.1795885426645,Manhattan,12283216.0
+2022,metrocard,16815194,Metrocard - Full Fare,26211292.0,40.1795885426645,Queens,4917963.0
+2022,metrocard,16815194,Metrocard - Full Fare,26211292.0,40.1795885426645,Staten Island,79034.0
+2022,metrocard,16815194,Metrocard - Other,4959505.0,7.602481795833921,Bronx,561790.0
+2022,metrocard,16815194,Metrocard - Other,4959505.0,7.602481795833921,Brooklyn,1317892.0
+2022,metrocard,16815194,Metrocard - Other,4959505.0,7.602481795833921,Manhattan,2230707.0
+2022,metrocard,16815194,Metrocard - Other,4959505.0,7.602481795833921,Queens,831098.0
+2022,metrocard,16815194,Metrocard - Other,4959505.0,7.602481795833921,Staten Island,18018.0
+2022,metrocard,16815194,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Bronx,330938.0
+2022,metrocard,16815194,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Brooklyn,1041879.0
+2022,metrocard,16815194,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Manhattan,1934287.0
+2022,metrocard,16815194,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Queens,760612.0
+2022,metrocard,16815194,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Staten Island,11304.0
+2022,metrocard,16815194,Metrocard - Students,3984998.0,6.1086488977094655,Bronx,569521.0
+2022,metrocard,16815194,Metrocard - Students,3984998.0,6.1086488977094655,Brooklyn,1325607.0
+2022,metrocard,16815194,Metrocard - Students,3984998.0,6.1086488977094655,Manhattan,1288431.0
+2022,metrocard,16815194,Metrocard - Students,3984998.0,6.1086488977094655,Queens,792786.0
+2022,metrocard,16815194,Metrocard - Students,3984998.0,6.1086488977094655,Staten Island,8653.0
+2022,metrocard,16815194,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Bronx,951388.0
+2022,metrocard,16815194,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Brooklyn,2890562.0
+2022,metrocard,16815194,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Manhattan,4735581.0
+2022,metrocard,16815194,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Queens,2182868.0
+2022,metrocard,16815194,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Staten Island,12772.0
+2022,metrocard,16815194,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Bronx,1520792.0
+2022,metrocard,16815194,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Brooklyn,2598696.0
+2022,metrocard,16815194,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Manhattan,5282043.0
+2022,metrocard,16815194,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Queens,2427054.0
+2022,metrocard,16815194,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Staten Island,10844.0
+2022,metrocard,16815194,OMNY - Fair Fare,0.0,0.0,Bronx,1.0
+2022,metrocard,16815194,OMNY - Fair Fare,0.0,0.0,Brooklyn,42.0
+2022,metrocard,16815194,OMNY - Fair Fare,0.0,0.0,Manhattan,12.0
+2022,metrocard,16815194,OMNY - Fair Fare,0.0,0.0,Queens,5.0
+2022,metrocard,16815194,OMNY - Fair Fare,0.0,0.0,Staten Island,0.0
+2022,metrocard,16815194,OMNY - Full Fare,0.0,0.0,Bronx,2201246.0
+2022,metrocard,16815194,OMNY - Full Fare,0.0,0.0,Brooklyn,8536173.0
+2022,metrocard,16815194,OMNY - Full Fare,0.0,0.0,Manhattan,19367227.0
+2022,metrocard,16815194,OMNY - Full Fare,0.0,0.0,Queens,5232848.0
+2022,metrocard,16815194,OMNY - Full Fare,0.0,0.0,Staten Island,40017.0
+2022,metrocard,16815194,OMNY - Other,0.0,0.0,Bronx,6843.0
+2022,metrocard,16815194,OMNY - Other,0.0,0.0,Brooklyn,12128.0
+2022,metrocard,16815194,OMNY - Other,0.0,0.0,Manhattan,24722.0
+2022,metrocard,16815194,OMNY - Other,0.0,0.0,Queens,10117.0
+2022,metrocard,16815194,OMNY - Other,0.0,0.0,Staten Island,585.0
+2022,metrocard,16815194,OMNY - Seniors & Disability,0.0,0.0,Bronx,4101.0
+2022,metrocard,16815194,OMNY - Seniors & Disability,0.0,0.0,Brooklyn,23846.0
+2022,metrocard,16815194,OMNY - Seniors & Disability,0.0,0.0,Manhattan,96536.0
+2022,metrocard,16815194,OMNY - Seniors & Disability,0.0,0.0,Queens,15837.0
+2022,metrocard,16815194,OMNY - Seniors & Disability,0.0,0.0,Staten Island,244.0
+2022,metrocard,16815194,OMNY - Students,0.0,0.0,Bronx,54307.0
+2022,metrocard,16815194,OMNY - Students,0.0,0.0,Brooklyn,120889.0
+2022,metrocard,16815194,OMNY - Students,0.0,0.0,Manhattan,109991.0
+2022,metrocard,16815194,OMNY - Students,0.0,0.0,Queens,73935.0
+2022,metrocard,16815194,OMNY - Students,0.0,0.0,Staten Island,860.0
+2023,metrocard,14720009,Metrocard - Fair Fare,3387927.0,5.193391950026107,Bronx,595532.0
+2023,metrocard,14720009,Metrocard - Fair Fare,3387927.0,5.193391950026107,Brooklyn,986840.0
+2023,metrocard,14720009,Metrocard - Fair Fare,3387927.0,5.193391950026107,Manhattan,1270311.0
+2023,metrocard,14720009,Metrocard - Fair Fare,3387927.0,5.193391950026107,Queens,529518.0
+2023,metrocard,14720009,Metrocard - Fair Fare,3387927.0,5.193391950026107,Staten Island,5726.0
+2023,metrocard,14720009,Metrocard - Full Fare,26211292.0,40.1795885426645,Bronx,2609495.0
+2023,metrocard,14720009,Metrocard - Full Fare,26211292.0,40.1795885426645,Brooklyn,6321584.0
+2023,metrocard,14720009,Metrocard - Full Fare,26211292.0,40.1795885426645,Manhattan,12283216.0
+2023,metrocard,14720009,Metrocard - Full Fare,26211292.0,40.1795885426645,Queens,4917963.0
+2023,metrocard,14720009,Metrocard - Full Fare,26211292.0,40.1795885426645,Staten Island,79034.0
+2023,metrocard,14720009,Metrocard - Other,4959505.0,7.602481795833921,Bronx,561790.0
+2023,metrocard,14720009,Metrocard - Other,4959505.0,7.602481795833921,Brooklyn,1317892.0
+2023,metrocard,14720009,Metrocard - Other,4959505.0,7.602481795833921,Manhattan,2230707.0
+2023,metrocard,14720009,Metrocard - Other,4959505.0,7.602481795833921,Queens,831098.0
+2023,metrocard,14720009,Metrocard - Other,4959505.0,7.602481795833921,Staten Island,18018.0
+2023,metrocard,14720009,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Bronx,330938.0
+2023,metrocard,14720009,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Brooklyn,1041879.0
+2023,metrocard,14720009,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Manhattan,1934287.0
+2023,metrocard,14720009,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Queens,760612.0
+2023,metrocard,14720009,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Staten Island,11304.0
+2023,metrocard,14720009,Metrocard - Students,3984998.0,6.1086488977094655,Bronx,569521.0
+2023,metrocard,14720009,Metrocard - Students,3984998.0,6.1086488977094655,Brooklyn,1325607.0
+2023,metrocard,14720009,Metrocard - Students,3984998.0,6.1086488977094655,Manhattan,1288431.0
+2023,metrocard,14720009,Metrocard - Students,3984998.0,6.1086488977094655,Queens,792786.0
+2023,metrocard,14720009,Metrocard - Students,3984998.0,6.1086488977094655,Staten Island,8653.0
+2023,metrocard,14720009,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Bronx,951388.0
+2023,metrocard,14720009,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Brooklyn,2890562.0
+2023,metrocard,14720009,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Manhattan,4735581.0
+2023,metrocard,14720009,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Queens,2182868.0
+2023,metrocard,14720009,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Staten Island,12772.0
+2023,metrocard,14720009,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Bronx,1520792.0
+2023,metrocard,14720009,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Brooklyn,2598696.0
+2023,metrocard,14720009,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Manhattan,5282043.0
+2023,metrocard,14720009,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Queens,2427054.0
+2023,metrocard,14720009,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Staten Island,10844.0
+2023,metrocard,14720009,OMNY - Fair Fare,0.0,0.0,Bronx,1.0
+2023,metrocard,14720009,OMNY - Fair Fare,0.0,0.0,Brooklyn,42.0
+2023,metrocard,14720009,OMNY - Fair Fare,0.0,0.0,Manhattan,12.0
+2023,metrocard,14720009,OMNY - Fair Fare,0.0,0.0,Queens,5.0
+2023,metrocard,14720009,OMNY - Fair Fare,0.0,0.0,Staten Island,0.0
+2023,metrocard,14720009,OMNY - Full Fare,0.0,0.0,Bronx,2201246.0
+2023,metrocard,14720009,OMNY - Full Fare,0.0,0.0,Brooklyn,8536173.0
+2023,metrocard,14720009,OMNY - Full Fare,0.0,0.0,Manhattan,19367227.0
+2023,metrocard,14720009,OMNY - Full Fare,0.0,0.0,Queens,5232848.0
+2023,metrocard,14720009,OMNY - Full Fare,0.0,0.0,Staten Island,40017.0
+2023,metrocard,14720009,OMNY - Other,0.0,0.0,Bronx,6843.0
+2023,metrocard,14720009,OMNY - Other,0.0,0.0,Brooklyn,12128.0
+2023,metrocard,14720009,OMNY - Other,0.0,0.0,Manhattan,24722.0
+2023,metrocard,14720009,OMNY - Other,0.0,0.0,Queens,10117.0
+2023,metrocard,14720009,OMNY - Other,0.0,0.0,Staten Island,585.0
+2023,metrocard,14720009,OMNY - Seniors & Disability,0.0,0.0,Bronx,4101.0
+2023,metrocard,14720009,OMNY - Seniors & Disability,0.0,0.0,Brooklyn,23846.0
+2023,metrocard,14720009,OMNY - Seniors & Disability,0.0,0.0,Manhattan,96536.0
+2023,metrocard,14720009,OMNY - Seniors & Disability,0.0,0.0,Queens,15837.0
+2023,metrocard,14720009,OMNY - Seniors & Disability,0.0,0.0,Staten Island,244.0
+2023,metrocard,14720009,OMNY - Students,0.0,0.0,Bronx,54307.0
+2023,metrocard,14720009,OMNY - Students,0.0,0.0,Brooklyn,120889.0
+2023,metrocard,14720009,OMNY - Students,0.0,0.0,Manhattan,109991.0
+2023,metrocard,14720009,OMNY - Students,0.0,0.0,Queens,73935.0
+2023,metrocard,14720009,OMNY - Students,0.0,0.0,Staten Island,860.0
+2024,metrocard,11123266,Metrocard - Fair Fare,3387927.0,5.193391950026107,Bronx,595532.0
+2024,metrocard,11123266,Metrocard - Fair Fare,3387927.0,5.193391950026107,Brooklyn,986840.0
+2024,metrocard,11123266,Metrocard - Fair Fare,3387927.0,5.193391950026107,Manhattan,1270311.0
+2024,metrocard,11123266,Metrocard - Fair Fare,3387927.0,5.193391950026107,Queens,529518.0
+2024,metrocard,11123266,Metrocard - Fair Fare,3387927.0,5.193391950026107,Staten Island,5726.0
+2024,metrocard,11123266,Metrocard - Full Fare,26211292.0,40.1795885426645,Bronx,2609495.0
+2024,metrocard,11123266,Metrocard - Full Fare,26211292.0,40.1795885426645,Brooklyn,6321584.0
+2024,metrocard,11123266,Metrocard - Full Fare,26211292.0,40.1795885426645,Manhattan,12283216.0
+2024,metrocard,11123266,Metrocard - Full Fare,26211292.0,40.1795885426645,Queens,4917963.0
+2024,metrocard,11123266,Metrocard - Full Fare,26211292.0,40.1795885426645,Staten Island,79034.0
+2024,metrocard,11123266,Metrocard - Other,4959505.0,7.602481795833921,Bronx,561790.0
+2024,metrocard,11123266,Metrocard - Other,4959505.0,7.602481795833921,Brooklyn,1317892.0
+2024,metrocard,11123266,Metrocard - Other,4959505.0,7.602481795833921,Manhattan,2230707.0
+2024,metrocard,11123266,Metrocard - Other,4959505.0,7.602481795833921,Queens,831098.0
+2024,metrocard,11123266,Metrocard - Other,4959505.0,7.602481795833921,Staten Island,18018.0
+2024,metrocard,11123266,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Bronx,330938.0
+2024,metrocard,11123266,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Brooklyn,1041879.0
+2024,metrocard,11123266,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Manhattan,1934287.0
+2024,metrocard,11123266,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Queens,760612.0
+2024,metrocard,11123266,Metrocard - Seniors & Disability,4079020.0,6.252776294175019,Staten Island,11304.0
+2024,metrocard,11123266,Metrocard - Students,3984998.0,6.1086488977094655,Bronx,569521.0
+2024,metrocard,11123266,Metrocard - Students,3984998.0,6.1086488977094655,Brooklyn,1325607.0
+2024,metrocard,11123266,Metrocard - Students,3984998.0,6.1086488977094655,Manhattan,1288431.0
+2024,metrocard,11123266,Metrocard - Students,3984998.0,6.1086488977094655,Queens,792786.0
+2024,metrocard,11123266,Metrocard - Students,3984998.0,6.1086488977094655,Staten Island,8653.0
+2024,metrocard,11123266,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Bronx,951388.0
+2024,metrocard,11123266,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Brooklyn,2890562.0
+2024,metrocard,11123266,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Manhattan,4735581.0
+2024,metrocard,11123266,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Queens,2182868.0
+2024,metrocard,11123266,Metrocard - Unlimited 30-Day,10773171.0,16.514316733405032,Staten Island,12772.0
+2024,metrocard,11123266,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Bronx,1520792.0
+2024,metrocard,11123266,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Brooklyn,2598696.0
+2024,metrocard,11123266,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Manhattan,5282043.0
+2024,metrocard,11123266,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Queens,2427054.0
+2024,metrocard,11123266,Metrocard - Unlimited 7-Day,11839429.0,18.14879578618596,Staten Island,10844.0
+2024,metrocard,11123266,OMNY - Fair Fare,0.0,0.0,Bronx,1.0
+2024,metrocard,11123266,OMNY - Fair Fare,0.0,0.0,Brooklyn,42.0
+2024,metrocard,11123266,OMNY - Fair Fare,0.0,0.0,Manhattan,12.0
+2024,metrocard,11123266,OMNY - Fair Fare,0.0,0.0,Queens,5.0
+2024,metrocard,11123266,OMNY - Fair Fare,0.0,0.0,Staten Island,0.0
+2024,metrocard,11123266,OMNY - Full Fare,0.0,0.0,Bronx,2201246.0
+2024,metrocard,11123266,OMNY - Full Fare,0.0,0.0,Brooklyn,8536173.0
+2024,metrocard,11123266,OMNY - Full Fare,0.0,0.0,Manhattan,19367227.0
+2024,metrocard,11123266,OMNY - Full Fare,0.0,0.0,Queens,5232848.0
+2024,metrocard,11123266,OMNY - Full Fare,0.0,0.0,Staten Island,40017.0
+2024,metrocard,11123266,OMNY - Other,0.0,0.0,Bronx,6843.0
+2024,metrocard,11123266,OMNY - Other,0.0,0.0,Brooklyn,12128.0
+2024,metrocard,11123266,OMNY - Other,0.0,0.0,Manhattan,24722.0
+2024,metrocard,11123266,OMNY - Other,0.0,0.0,Queens,10117.0
+2024,metrocard,11123266,OMNY - Other,0.0,0.0,Staten Island,585.0
+2024,metrocard,11123266,OMNY - Seniors & Disability,0.0,0.0,Bronx,4101.0
+2024,metrocard,11123266,OMNY - Seniors & Disability,0.0,0.0,Brooklyn,23846.0
+2024,metrocard,11123266,OMNY - Seniors & Disability,0.0,0.0,Manhattan,96536.0
+2024,metrocard,11123266,OMNY - Seniors & Disability,0.0,0.0,Queens,15837.0
+2024,metrocard,11123266,OMNY - Seniors & Disability,0.0,0.0,Staten Island,244.0
+2024,metrocard,11123266,OMNY - Students,0.0,0.0,Bronx,54307.0
+2024,metrocard,11123266,OMNY - Students,0.0,0.0,Brooklyn,120889.0
+2024,metrocard,11123266,OMNY - Students,0.0,0.0,Manhattan,109991.0
+2024,metrocard,11123266,OMNY - Students,0.0,0.0,Queens,73935.0
+2024,metrocard,11123266,OMNY - Students,0.0,0.0,Staten Island,860.0
+2020,omny,536500,Metrocard - Fair Fare,0.0,0.0,Bronx,595532.0
+2020,omny,536500,Metrocard - Fair Fare,0.0,0.0,Brooklyn,986840.0
+2020,omny,536500,Metrocard - Fair Fare,0.0,0.0,Manhattan,1270311.0
+2020,omny,536500,Metrocard - Fair Fare,0.0,0.0,Queens,529518.0
+2020,omny,536500,Metrocard - Fair Fare,0.0,0.0,Staten Island,5726.0
+2020,omny,536500,Metrocard - Full Fare,0.0,0.0,Bronx,2609495.0
+2020,omny,536500,Metrocard - Full Fare,0.0,0.0,Brooklyn,6321584.0
+2020,omny,536500,Metrocard - Full Fare,0.0,0.0,Manhattan,12283216.0
+2020,omny,536500,Metrocard - Full Fare,0.0,0.0,Queens,4917963.0
+2020,omny,536500,Metrocard - Full Fare,0.0,0.0,Staten Island,79034.0
+2020,omny,536500,Metrocard - Other,0.0,0.0,Bronx,561790.0
+2020,omny,536500,Metrocard - Other,0.0,0.0,Brooklyn,1317892.0
+2020,omny,536500,Metrocard - Other,0.0,0.0,Manhattan,2230707.0
+2020,omny,536500,Metrocard - Other,0.0,0.0,Queens,831098.0
+2020,omny,536500,Metrocard - Other,0.0,0.0,Staten Island,18018.0
+2020,omny,536500,Metrocard - Seniors & Disability,0.0,0.0,Bronx,330938.0
+2020,omny,536500,Metrocard - Seniors & Disability,0.0,0.0,Brooklyn,1041879.0
+2020,omny,536500,Metrocard - Seniors & Disability,0.0,0.0,Manhattan,1934287.0
+2020,omny,536500,Metrocard - Seniors & Disability,0.0,0.0,Queens,760612.0
+2020,omny,536500,Metrocard - Seniors & Disability,0.0,0.0,Staten Island,11304.0
+2020,omny,536500,Metrocard - Students,0.0,0.0,Bronx,569521.0
+2020,omny,536500,Metrocard - Students,0.0,0.0,Brooklyn,1325607.0
+2020,omny,536500,Metrocard - Students,0.0,0.0,Manhattan,1288431.0
+2020,omny,536500,Metrocard - Students,0.0,0.0,Queens,792786.0
+2020,omny,536500,Metrocard - Students,0.0,0.0,Staten Island,8653.0
+2020,omny,536500,Metrocard - Unlimited 30-Day,0.0,0.0,Bronx,951388.0
+2020,omny,536500,Metrocard - Unlimited 30-Day,0.0,0.0,Brooklyn,2890562.0
+2020,omny,536500,Metrocard - Unlimited 30-Day,0.0,0.0,Manhattan,4735581.0
+2020,omny,536500,Metrocard - Unlimited 30-Day,0.0,0.0,Queens,2182868.0
+2020,omny,536500,Metrocard - Unlimited 30-Day,0.0,0.0,Staten Island,12772.0
+2020,omny,536500,Metrocard - Unlimited 7-Day,0.0,0.0,Bronx,1520792.0
+2020,omny,536500,Metrocard - Unlimited 7-Day,0.0,0.0,Brooklyn,2598696.0
+2020,omny,536500,Metrocard - Unlimited 7-Day,0.0,0.0,Manhattan,5282043.0
+2020,omny,536500,Metrocard - Unlimited 7-Day,0.0,0.0,Queens,2427054.0
+2020,omny,536500,Metrocard - Unlimited 7-Day,0.0,0.0,Staten Island,10844.0
+2020,omny,536500,OMNY - Fair Fare,60.0,0.0001669796979404,Bronx,1.0
+2020,omny,536500,OMNY - Fair Fare,60.0,0.0001669796979404,Brooklyn,42.0
+2020,omny,536500,OMNY - Fair Fare,60.0,0.0001669796979404,Manhattan,12.0
+2020,omny,536500,OMNY - Fair Fare,60.0,0.0001669796979404,Queens,5.0
+2020,omny,536500,OMNY - Fair Fare,60.0,0.0001669796979404,Staten Island,0.0
+2020,omny,536500,OMNY - Full Fare,35377511.0,98.45543501105628,Bronx,2201246.0
+2020,omny,536500,OMNY - Full Fare,35377511.0,98.45543501105628,Brooklyn,8536173.0
+2020,omny,536500,OMNY - Full Fare,35377511.0,98.45543501105628,Manhattan,19367227.0
+2020,omny,536500,OMNY - Full Fare,35377511.0,98.45543501105628,Queens,5232848.0
+2020,omny,536500,OMNY - Full Fare,35377511.0,98.45543501105628,Staten Island,40017.0
+2020,omny,536500,OMNY - Other,54395.0,0.151381011157806,Bronx,6843.0
+2020,omny,536500,OMNY - Other,54395.0,0.151381011157806,Brooklyn,12128.0
+2020,omny,536500,OMNY - Other,54395.0,0.151381011157806,Manhattan,24722.0
+2020,omny,536500,OMNY - Other,54395.0,0.151381011157806,Queens,10117.0
+2020,omny,536500,OMNY - Other,54395.0,0.151381011157806,Staten Island,585.0
+2020,omny,536500,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Bronx,4101.0
+2020,omny,536500,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Brooklyn,23846.0
+2020,omny,536500,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Manhattan,96536.0
+2020,omny,536500,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Queens,15837.0
+2020,omny,536500,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Staten Island,244.0
+2020,omny,536500,OMNY - Students,359982.0,1.0018280937330517,Bronx,54307.0
+2020,omny,536500,OMNY - Students,359982.0,1.0018280937330517,Brooklyn,120889.0
+2020,omny,536500,OMNY - Students,359982.0,1.0018280937330517,Manhattan,109991.0
+2020,omny,536500,OMNY - Students,359982.0,1.0018280937330517,Queens,73935.0
+2020,omny,536500,OMNY - Students,359982.0,1.0018280937330517,Staten Island,860.0
+2021,omny,3709910,Metrocard - Fair Fare,0.0,0.0,Bronx,595532.0
+2021,omny,3709910,Metrocard - Fair Fare,0.0,0.0,Brooklyn,986840.0
+2021,omny,3709910,Metrocard - Fair Fare,0.0,0.0,Manhattan,1270311.0
+2021,omny,3709910,Metrocard - Fair Fare,0.0,0.0,Queens,529518.0
+2021,omny,3709910,Metrocard - Fair Fare,0.0,0.0,Staten Island,5726.0
+2021,omny,3709910,Metrocard - Full Fare,0.0,0.0,Bronx,2609495.0
+2021,omny,3709910,Metrocard - Full Fare,0.0,0.0,Brooklyn,6321584.0
+2021,omny,3709910,Metrocard - Full Fare,0.0,0.0,Manhattan,12283216.0
+2021,omny,3709910,Metrocard - Full Fare,0.0,0.0,Queens,4917963.0
+2021,omny,3709910,Metrocard - Full Fare,0.0,0.0,Staten Island,79034.0
+2021,omny,3709910,Metrocard - Other,0.0,0.0,Bronx,561790.0
+2021,omny,3709910,Metrocard - Other,0.0,0.0,Brooklyn,1317892.0
+2021,omny,3709910,Metrocard - Other,0.0,0.0,Manhattan,2230707.0
+2021,omny,3709910,Metrocard - Other,0.0,0.0,Queens,831098.0
+2021,omny,3709910,Metrocard - Other,0.0,0.0,Staten Island,18018.0
+2021,omny,3709910,Metrocard - Seniors & Disability,0.0,0.0,Bronx,330938.0
+2021,omny,3709910,Metrocard - Seniors & Disability,0.0,0.0,Brooklyn,1041879.0
+2021,omny,3709910,Metrocard - Seniors & Disability,0.0,0.0,Manhattan,1934287.0
+2021,omny,3709910,Metrocard - Seniors & Disability,0.0,0.0,Queens,760612.0
+2021,omny,3709910,Metrocard - Seniors & Disability,0.0,0.0,Staten Island,11304.0
+2021,omny,3709910,Metrocard - Students,0.0,0.0,Bronx,569521.0
+2021,omny,3709910,Metrocard - Students,0.0,0.0,Brooklyn,1325607.0
+2021,omny,3709910,Metrocard - Students,0.0,0.0,Manhattan,1288431.0
+2021,omny,3709910,Metrocard - Students,0.0,0.0,Queens,792786.0
+2021,omny,3709910,Metrocard - Students,0.0,0.0,Staten Island,8653.0
+2021,omny,3709910,Metrocard - Unlimited 30-Day,0.0,0.0,Bronx,951388.0
+2021,omny,3709910,Metrocard - Unlimited 30-Day,0.0,0.0,Brooklyn,2890562.0
+2021,omny,3709910,Metrocard - Unlimited 30-Day,0.0,0.0,Manhattan,4735581.0
+2021,omny,3709910,Metrocard - Unlimited 30-Day,0.0,0.0,Queens,2182868.0
+2021,omny,3709910,Metrocard - Unlimited 30-Day,0.0,0.0,Staten Island,12772.0
+2021,omny,3709910,Metrocard - Unlimited 7-Day,0.0,0.0,Bronx,1520792.0
+2021,omny,3709910,Metrocard - Unlimited 7-Day,0.0,0.0,Brooklyn,2598696.0
+2021,omny,3709910,Metrocard - Unlimited 7-Day,0.0,0.0,Manhattan,5282043.0
+2021,omny,3709910,Metrocard - Unlimited 7-Day,0.0,0.0,Queens,2427054.0
+2021,omny,3709910,Metrocard - Unlimited 7-Day,0.0,0.0,Staten Island,10844.0
+2021,omny,3709910,OMNY - Fair Fare,60.0,0.0001669796979404,Bronx,1.0
+2021,omny,3709910,OMNY - Fair Fare,60.0,0.0001669796979404,Brooklyn,42.0
+2021,omny,3709910,OMNY - Fair Fare,60.0,0.0001669796979404,Manhattan,12.0
+2021,omny,3709910,OMNY - Fair Fare,60.0,0.0001669796979404,Queens,5.0
+2021,omny,3709910,OMNY - Fair Fare,60.0,0.0001669796979404,Staten Island,0.0
+2021,omny,3709910,OMNY - Full Fare,35377511.0,98.45543501105628,Bronx,2201246.0
+2021,omny,3709910,OMNY - Full Fare,35377511.0,98.45543501105628,Brooklyn,8536173.0
+2021,omny,3709910,OMNY - Full Fare,35377511.0,98.45543501105628,Manhattan,19367227.0
+2021,omny,3709910,OMNY - Full Fare,35377511.0,98.45543501105628,Queens,5232848.0
+2021,omny,3709910,OMNY - Full Fare,35377511.0,98.45543501105628,Staten Island,40017.0
+2021,omny,3709910,OMNY - Other,54395.0,0.151381011157806,Bronx,6843.0
+2021,omny,3709910,OMNY - Other,54395.0,0.151381011157806,Brooklyn,12128.0
+2021,omny,3709910,OMNY - Other,54395.0,0.151381011157806,Manhattan,24722.0
+2021,omny,3709910,OMNY - Other,54395.0,0.151381011157806,Queens,10117.0
+2021,omny,3709910,OMNY - Other,54395.0,0.151381011157806,Staten Island,585.0
+2021,omny,3709910,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Bronx,4101.0
+2021,omny,3709910,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Brooklyn,23846.0
+2021,omny,3709910,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Manhattan,96536.0
+2021,omny,3709910,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Queens,15837.0
+2021,omny,3709910,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Staten Island,244.0
+2021,omny,3709910,OMNY - Students,359982.0,1.0018280937330517,Bronx,54307.0
+2021,omny,3709910,OMNY - Students,359982.0,1.0018280937330517,Brooklyn,120889.0
+2021,omny,3709910,OMNY - Students,359982.0,1.0018280937330517,Manhattan,109991.0
+2021,omny,3709910,OMNY - Students,359982.0,1.0018280937330517,Queens,73935.0
+2021,omny,3709910,OMNY - Students,359982.0,1.0018280937330517,Staten Island,860.0
+2022,omny,7907873,Metrocard - Fair Fare,0.0,0.0,Bronx,595532.0
+2022,omny,7907873,Metrocard - Fair Fare,0.0,0.0,Brooklyn,986840.0
+2022,omny,7907873,Metrocard - Fair Fare,0.0,0.0,Manhattan,1270311.0
+2022,omny,7907873,Metrocard - Fair Fare,0.0,0.0,Queens,529518.0
+2022,omny,7907873,Metrocard - Fair Fare,0.0,0.0,Staten Island,5726.0
+2022,omny,7907873,Metrocard - Full Fare,0.0,0.0,Bronx,2609495.0
+2022,omny,7907873,Metrocard - Full Fare,0.0,0.0,Brooklyn,6321584.0
+2022,omny,7907873,Metrocard - Full Fare,0.0,0.0,Manhattan,12283216.0
+2022,omny,7907873,Metrocard - Full Fare,0.0,0.0,Queens,4917963.0
+2022,omny,7907873,Metrocard - Full Fare,0.0,0.0,Staten Island,79034.0
+2022,omny,7907873,Metrocard - Other,0.0,0.0,Bronx,561790.0
+2022,omny,7907873,Metrocard - Other,0.0,0.0,Brooklyn,1317892.0
+2022,omny,7907873,Metrocard - Other,0.0,0.0,Manhattan,2230707.0
+2022,omny,7907873,Metrocard - Other,0.0,0.0,Queens,831098.0
+2022,omny,7907873,Metrocard - Other,0.0,0.0,Staten Island,18018.0
+2022,omny,7907873,Metrocard - Seniors & Disability,0.0,0.0,Bronx,330938.0
+2022,omny,7907873,Metrocard - Seniors & Disability,0.0,0.0,Brooklyn,1041879.0
+2022,omny,7907873,Metrocard - Seniors & Disability,0.0,0.0,Manhattan,1934287.0
+2022,omny,7907873,Metrocard - Seniors & Disability,0.0,0.0,Queens,760612.0
+2022,omny,7907873,Metrocard - Seniors & Disability,0.0,0.0,Staten Island,11304.0
+2022,omny,7907873,Metrocard - Students,0.0,0.0,Bronx,569521.0
+2022,omny,7907873,Metrocard - Students,0.0,0.0,Brooklyn,1325607.0
+2022,omny,7907873,Metrocard - Students,0.0,0.0,Manhattan,1288431.0
+2022,omny,7907873,Metrocard - Students,0.0,0.0,Queens,792786.0
+2022,omny,7907873,Metrocard - Students,0.0,0.0,Staten Island,8653.0
+2022,omny,7907873,Metrocard - Unlimited 30-Day,0.0,0.0,Bronx,951388.0
+2022,omny,7907873,Metrocard - Unlimited 30-Day,0.0,0.0,Brooklyn,2890562.0
+2022,omny,7907873,Metrocard - Unlimited 30-Day,0.0,0.0,Manhattan,4735581.0
+2022,omny,7907873,Metrocard - Unlimited 30-Day,0.0,0.0,Queens,2182868.0
+2022,omny,7907873,Metrocard - Unlimited 30-Day,0.0,0.0,Staten Island,12772.0
+2022,omny,7907873,Metrocard - Unlimited 7-Day,0.0,0.0,Bronx,1520792.0
+2022,omny,7907873,Metrocard - Unlimited 7-Day,0.0,0.0,Brooklyn,2598696.0
+2022,omny,7907873,Metrocard - Unlimited 7-Day,0.0,0.0,Manhattan,5282043.0
+2022,omny,7907873,Metrocard - Unlimited 7-Day,0.0,0.0,Queens,2427054.0
+2022,omny,7907873,Metrocard - Unlimited 7-Day,0.0,0.0,Staten Island,10844.0
+2022,omny,7907873,OMNY - Fair Fare,60.0,0.0001669796979404,Bronx,1.0
+2022,omny,7907873,OMNY - Fair Fare,60.0,0.0001669796979404,Brooklyn,42.0
+2022,omny,7907873,OMNY - Fair Fare,60.0,0.0001669796979404,Manhattan,12.0
+2022,omny,7907873,OMNY - Fair Fare,60.0,0.0001669796979404,Queens,5.0
+2022,omny,7907873,OMNY - Fair Fare,60.0,0.0001669796979404,Staten Island,0.0
+2022,omny,7907873,OMNY - Full Fare,35377511.0,98.45543501105628,Bronx,2201246.0
+2022,omny,7907873,OMNY - Full Fare,35377511.0,98.45543501105628,Brooklyn,8536173.0
+2022,omny,7907873,OMNY - Full Fare,35377511.0,98.45543501105628,Manhattan,19367227.0
+2022,omny,7907873,OMNY - Full Fare,35377511.0,98.45543501105628,Queens,5232848.0
+2022,omny,7907873,OMNY - Full Fare,35377511.0,98.45543501105628,Staten Island,40017.0
+2022,omny,7907873,OMNY - Other,54395.0,0.151381011157806,Bronx,6843.0
+2022,omny,7907873,OMNY - Other,54395.0,0.151381011157806,Brooklyn,12128.0
+2022,omny,7907873,OMNY - Other,54395.0,0.151381011157806,Manhattan,24722.0
+2022,omny,7907873,OMNY - Other,54395.0,0.151381011157806,Queens,10117.0
+2022,omny,7907873,OMNY - Other,54395.0,0.151381011157806,Staten Island,585.0
+2022,omny,7907873,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Bronx,4101.0
+2022,omny,7907873,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Brooklyn,23846.0
+2022,omny,7907873,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Manhattan,96536.0
+2022,omny,7907873,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Queens,15837.0
+2022,omny,7907873,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Staten Island,244.0
+2022,omny,7907873,OMNY - Students,359982.0,1.0018280937330517,Bronx,54307.0
+2022,omny,7907873,OMNY - Students,359982.0,1.0018280937330517,Brooklyn,120889.0
+2022,omny,7907873,OMNY - Students,359982.0,1.0018280937330517,Manhattan,109991.0
+2022,omny,7907873,OMNY - Students,359982.0,1.0018280937330517,Queens,73935.0
+2022,omny,7907873,OMNY - Students,359982.0,1.0018280937330517,Staten Island,860.0
+2023,omny,10991871,Metrocard - Fair Fare,0.0,0.0,Bronx,595532.0
+2023,omny,10991871,Metrocard - Fair Fare,0.0,0.0,Brooklyn,986840.0
+2023,omny,10991871,Metrocard - Fair Fare,0.0,0.0,Manhattan,1270311.0
+2023,omny,10991871,Metrocard - Fair Fare,0.0,0.0,Queens,529518.0
+2023,omny,10991871,Metrocard - Fair Fare,0.0,0.0,Staten Island,5726.0
+2023,omny,10991871,Metrocard - Full Fare,0.0,0.0,Bronx,2609495.0
+2023,omny,10991871,Metrocard - Full Fare,0.0,0.0,Brooklyn,6321584.0
+2023,omny,10991871,Metrocard - Full Fare,0.0,0.0,Manhattan,12283216.0
+2023,omny,10991871,Metrocard - Full Fare,0.0,0.0,Queens,4917963.0
+2023,omny,10991871,Metrocard - Full Fare,0.0,0.0,Staten Island,79034.0
+2023,omny,10991871,Metrocard - Other,0.0,0.0,Bronx,561790.0
+2023,omny,10991871,Metrocard - Other,0.0,0.0,Brooklyn,1317892.0
+2023,omny,10991871,Metrocard - Other,0.0,0.0,Manhattan,2230707.0
+2023,omny,10991871,Metrocard - Other,0.0,0.0,Queens,831098.0
+2023,omny,10991871,Metrocard - Other,0.0,0.0,Staten Island,18018.0
+2023,omny,10991871,Metrocard - Seniors & Disability,0.0,0.0,Bronx,330938.0
+2023,omny,10991871,Metrocard - Seniors & Disability,0.0,0.0,Brooklyn,1041879.0
+2023,omny,10991871,Metrocard - Seniors & Disability,0.0,0.0,Manhattan,1934287.0
+2023,omny,10991871,Metrocard - Seniors & Disability,0.0,0.0,Queens,760612.0
+2023,omny,10991871,Metrocard - Seniors & Disability,0.0,0.0,Staten Island,11304.0
+2023,omny,10991871,Metrocard - Students,0.0,0.0,Bronx,569521.0
+2023,omny,10991871,Metrocard - Students,0.0,0.0,Brooklyn,1325607.0
+2023,omny,10991871,Metrocard - Students,0.0,0.0,Manhattan,1288431.0
+2023,omny,10991871,Metrocard - Students,0.0,0.0,Queens,792786.0
+2023,omny,10991871,Metrocard - Students,0.0,0.0,Staten Island,8653.0
+2023,omny,10991871,Metrocard - Unlimited 30-Day,0.0,0.0,Bronx,951388.0
+2023,omny,10991871,Metrocard - Unlimited 30-Day,0.0,0.0,Brooklyn,2890562.0
+2023,omny,10991871,Metrocard - Unlimited 30-Day,0.0,0.0,Manhattan,4735581.0
+2023,omny,10991871,Metrocard - Unlimited 30-Day,0.0,0.0,Queens,2182868.0
+2023,omny,10991871,Metrocard - Unlimited 30-Day,0.0,0.0,Staten Island,12772.0
+2023,omny,10991871,Metrocard - Unlimited 7-Day,0.0,0.0,Bronx,1520792.0
+2023,omny,10991871,Metrocard - Unlimited 7-Day,0.0,0.0,Brooklyn,2598696.0
+2023,omny,10991871,Metrocard - Unlimited 7-Day,0.0,0.0,Manhattan,5282043.0
+2023,omny,10991871,Metrocard - Unlimited 7-Day,0.0,0.0,Queens,2427054.0
+2023,omny,10991871,Metrocard - Unlimited 7-Day,0.0,0.0,Staten Island,10844.0
+2023,omny,10991871,OMNY - Fair Fare,60.0,0.0001669796979404,Bronx,1.0
+2023,omny,10991871,OMNY - Fair Fare,60.0,0.0001669796979404,Brooklyn,42.0
+2023,omny,10991871,OMNY - Fair Fare,60.0,0.0001669796979404,Manhattan,12.0
+2023,omny,10991871,OMNY - Fair Fare,60.0,0.0001669796979404,Queens,5.0
+2023,omny,10991871,OMNY - Fair Fare,60.0,0.0001669796979404,Staten Island,0.0
+2023,omny,10991871,OMNY - Full Fare,35377511.0,98.45543501105628,Bronx,2201246.0
+2023,omny,10991871,OMNY - Full Fare,35377511.0,98.45543501105628,Brooklyn,8536173.0
+2023,omny,10991871,OMNY - Full Fare,35377511.0,98.45543501105628,Manhattan,19367227.0
+2023,omny,10991871,OMNY - Full Fare,35377511.0,98.45543501105628,Queens,5232848.0
+2023,omny,10991871,OMNY - Full Fare,35377511.0,98.45543501105628,Staten Island,40017.0
+2023,omny,10991871,OMNY - Other,54395.0,0.151381011157806,Bronx,6843.0
+2023,omny,10991871,OMNY - Other,54395.0,0.151381011157806,Brooklyn,12128.0
+2023,omny,10991871,OMNY - Other,54395.0,0.151381011157806,Manhattan,24722.0
+2023,omny,10991871,OMNY - Other,54395.0,0.151381011157806,Queens,10117.0
+2023,omny,10991871,OMNY - Other,54395.0,0.151381011157806,Staten Island,585.0
+2023,omny,10991871,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Bronx,4101.0
+2023,omny,10991871,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Brooklyn,23846.0
+2023,omny,10991871,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Manhattan,96536.0
+2023,omny,10991871,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Queens,15837.0
+2023,omny,10991871,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Staten Island,244.0
+2023,omny,10991871,OMNY - Students,359982.0,1.0018280937330517,Bronx,54307.0
+2023,omny,10991871,OMNY - Students,359982.0,1.0018280937330517,Brooklyn,120889.0
+2023,omny,10991871,OMNY - Students,359982.0,1.0018280937330517,Manhattan,109991.0
+2023,omny,10991871,OMNY - Students,359982.0,1.0018280937330517,Queens,73935.0
+2023,omny,10991871,OMNY - Students,359982.0,1.0018280937330517,Staten Island,860.0
+2024,omny,12786358,Metrocard - Fair Fare,0.0,0.0,Bronx,595532.0
+2024,omny,12786358,Metrocard - Fair Fare,0.0,0.0,Brooklyn,986840.0
+2024,omny,12786358,Metrocard - Fair Fare,0.0,0.0,Manhattan,1270311.0
+2024,omny,12786358,Metrocard - Fair Fare,0.0,0.0,Queens,529518.0
+2024,omny,12786358,Metrocard - Fair Fare,0.0,0.0,Staten Island,5726.0
+2024,omny,12786358,Metrocard - Full Fare,0.0,0.0,Bronx,2609495.0
+2024,omny,12786358,Metrocard - Full Fare,0.0,0.0,Brooklyn,6321584.0
+2024,omny,12786358,Metrocard - Full Fare,0.0,0.0,Manhattan,12283216.0
+2024,omny,12786358,Metrocard - Full Fare,0.0,0.0,Queens,4917963.0
+2024,omny,12786358,Metrocard - Full Fare,0.0,0.0,Staten Island,79034.0
+2024,omny,12786358,Metrocard - Other,0.0,0.0,Bronx,561790.0
+2024,omny,12786358,Metrocard - Other,0.0,0.0,Brooklyn,1317892.0
+2024,omny,12786358,Metrocard - Other,0.0,0.0,Manhattan,2230707.0
+2024,omny,12786358,Metrocard - Other,0.0,0.0,Queens,831098.0
+2024,omny,12786358,Metrocard - Other,0.0,0.0,Staten Island,18018.0
+2024,omny,12786358,Metrocard - Seniors & Disability,0.0,0.0,Bronx,330938.0
+2024,omny,12786358,Metrocard - Seniors & Disability,0.0,0.0,Brooklyn,1041879.0
+2024,omny,12786358,Metrocard - Seniors & Disability,0.0,0.0,Manhattan,1934287.0
+2024,omny,12786358,Metrocard - Seniors & Disability,0.0,0.0,Queens,760612.0
+2024,omny,12786358,Metrocard - Seniors & Disability,0.0,0.0,Staten Island,11304.0
+2024,omny,12786358,Metrocard - Students,0.0,0.0,Bronx,569521.0
+2024,omny,12786358,Metrocard - Students,0.0,0.0,Brooklyn,1325607.0
+2024,omny,12786358,Metrocard - Students,0.0,0.0,Manhattan,1288431.0
+2024,omny,12786358,Metrocard - Students,0.0,0.0,Queens,792786.0
+2024,omny,12786358,Metrocard - Students,0.0,0.0,Staten Island,8653.0
+2024,omny,12786358,Metrocard - Unlimited 30-Day,0.0,0.0,Bronx,951388.0
+2024,omny,12786358,Metrocard - Unlimited 30-Day,0.0,0.0,Brooklyn,2890562.0
+2024,omny,12786358,Metrocard - Unlimited 30-Day,0.0,0.0,Manhattan,4735581.0
+2024,omny,12786358,Metrocard - Unlimited 30-Day,0.0,0.0,Queens,2182868.0
+2024,omny,12786358,Metrocard - Unlimited 30-Day,0.0,0.0,Staten Island,12772.0
+2024,omny,12786358,Metrocard - Unlimited 7-Day,0.0,0.0,Bronx,1520792.0
+2024,omny,12786358,Metrocard - Unlimited 7-Day,0.0,0.0,Brooklyn,2598696.0
+2024,omny,12786358,Metrocard - Unlimited 7-Day,0.0,0.0,Manhattan,5282043.0
+2024,omny,12786358,Metrocard - Unlimited 7-Day,0.0,0.0,Queens,2427054.0
+2024,omny,12786358,Metrocard - Unlimited 7-Day,0.0,0.0,Staten Island,10844.0
+2024,omny,12786358,OMNY - Fair Fare,60.0,0.0001669796979404,Bronx,1.0
+2024,omny,12786358,OMNY - Fair Fare,60.0,0.0001669796979404,Brooklyn,42.0
+2024,omny,12786358,OMNY - Fair Fare,60.0,0.0001669796979404,Manhattan,12.0
+2024,omny,12786358,OMNY - Fair Fare,60.0,0.0001669796979404,Queens,5.0
+2024,omny,12786358,OMNY - Fair Fare,60.0,0.0001669796979404,Staten Island,0.0
+2024,omny,12786358,OMNY - Full Fare,35377511.0,98.45543501105628,Bronx,2201246.0
+2024,omny,12786358,OMNY - Full Fare,35377511.0,98.45543501105628,Brooklyn,8536173.0
+2024,omny,12786358,OMNY - Full Fare,35377511.0,98.45543501105628,Manhattan,19367227.0
+2024,omny,12786358,OMNY - Full Fare,35377511.0,98.45543501105628,Queens,5232848.0
+2024,omny,12786358,OMNY - Full Fare,35377511.0,98.45543501105628,Staten Island,40017.0
+2024,omny,12786358,OMNY - Other,54395.0,0.151381011157806,Bronx,6843.0
+2024,omny,12786358,OMNY - Other,54395.0,0.151381011157806,Brooklyn,12128.0
+2024,omny,12786358,OMNY - Other,54395.0,0.151381011157806,Manhattan,24722.0
+2024,omny,12786358,OMNY - Other,54395.0,0.151381011157806,Queens,10117.0
+2024,omny,12786358,OMNY - Other,54395.0,0.151381011157806,Staten Island,585.0
+2024,omny,12786358,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Bronx,4101.0
+2024,omny,12786358,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Brooklyn,23846.0
+2024,omny,12786358,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Manhattan,96536.0
+2024,omny,12786358,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Queens,15837.0
+2024,omny,12786358,OMNY - Seniors & Disability,140564.0,0.3911889043549196,Staten Island,244.0
+2024,omny,12786358,OMNY - Students,359982.0,1.0018280937330517,Bronx,54307.0
+2024,omny,12786358,OMNY - Students,359982.0,1.0018280937330517,Brooklyn,120889.0
+2024,omny,12786358,OMNY - Students,359982.0,1.0018280937330517,Manhattan,109991.0
+2024,omny,12786358,OMNY - Students,359982.0,1.0018280937330517,Queens,73935.0
+2024,omny,12786358,OMNY - Students,359982.0,1.0018280937330517,Staten Island,860.0

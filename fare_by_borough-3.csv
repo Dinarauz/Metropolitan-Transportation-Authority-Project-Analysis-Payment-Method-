@@ -1,0 +1,61 @@
+borough,fare_class_category,ridership
+Bronx,Metrocard - Fair Fare,595532.0
+Bronx,Metrocard - Full Fare,2609495.0
+Bronx,Metrocard - Other,561790.0
+Bronx,Metrocard - Seniors & Disability,330938.0
+Bronx,Metrocard - Students,569521.0
+Bronx,Metrocard - Unlimited 30-Day,951388.0
+Bronx,Metrocard - Unlimited 7-Day,1520792.0
+Bronx,OMNY - Fair Fare,1.0
+Bronx,OMNY - Full Fare,2201246.0
+Bronx,OMNY - Other,6843.0
+Bronx,OMNY - Seniors & Disability,4101.0
+Bronx,OMNY - Students,54307.0
+Brooklyn,Metrocard - Fair Fare,986840.0
+Brooklyn,Metrocard - Full Fare,6321584.0
+Brooklyn,Metrocard - Other,1317892.0
+Brooklyn,Metrocard - Seniors & Disability,1041879.0
+Brooklyn,Metrocard - Students,1325607.0
+Brooklyn,Metrocard - Unlimited 30-Day,2890562.0
+Brooklyn,Metrocard - Unlimited 7-Day,2598696.0
+Brooklyn,OMNY - Fair Fare,42.0
+Brooklyn,OMNY - Full Fare,8536173.0
+Brooklyn,OMNY - Other,12128.0
+Brooklyn,OMNY - Seniors & Disability,23846.0
+Brooklyn,OMNY - Students,120889.0
+Manhattan,Metrocard - Fair Fare,1270311.0
+Manhattan,Metrocard - Full Fare,12283216.0
+Manhattan,Metrocard - Other,2230707.0
+Manhattan,Metrocard - Seniors & Disability,1934287.0
+Manhattan,Metrocard - Students,1288431.0
+Manhattan,Metrocard - Unlimited 30-Day,4735581.0
+Manhattan,Metrocard - Unlimited 7-Day,5282043.0
+Manhattan,OMNY - Fair Fare,12.0
+Manhattan,OMNY - Full Fare,19367227.0
+Manhattan,OMNY - Other,24722.0
+Manhattan,OMNY - Seniors & Disability,96536.0
+Manhattan,OMNY - Students,109991.0
+Queens,Metrocard - Fair Fare,529518.0
+Queens,Metrocard - Full Fare,4917963.0
+Queens,Metrocard - Other,831098.0
+Queens,Metrocard - Seniors & Disability,760612.0
+Queens,Metrocard - Students,792786.0
+Queens,Metrocard - Unlimited 30-Day,2182868.0
+Queens,Metrocard - Unlimited 7-Day,2427054.0
+Queens,OMNY - Fair Fare,5.0
+Queens,OMNY - Full Fare,5232848.0
+Queens,OMNY - Other,10117.0
+Queens,OMNY - Seniors & Disability,15837.0
+Queens,OMNY - Students,73935.0
+Staten Island,Metrocard - Fair Fare,5726.0
+Staten Island,Metrocard - Full Fare,79034.0
+Staten Island,Metrocard - Other,18018.0
+Staten Island,Metrocard - Seniors & Disability,11304.0
+Staten Island,Metrocard - Students,8653.0
+Staten Island,Metrocard - Unlimited 30-Day,12772.0
+Staten Island,Metrocard - Unlimited 7-Day,10844.0
+Staten Island,OMNY - Fair Fare,0.0
+Staten Island,OMNY - Full Fare,40017.0
+Staten Island,OMNY - Other,585.0
+Staten Island,OMNY - Seniors & Disability,244.0
+Staten Island,OMNY - Students,860.0

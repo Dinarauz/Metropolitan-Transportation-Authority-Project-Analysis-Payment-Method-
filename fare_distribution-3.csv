@@ -1,0 +1,25 @@
+fare_class_category,payment_method,ridership,percentage
+Metrocard - Fair Fare,metrocard,3387927.0,5.193391950026107
+Metrocard - Fair Fare,omny,0.0,0.0
+Metrocard - Full Fare,metrocard,26211292.0,40.1795885426645
+Metrocard - Full Fare,omny,0.0,0.0
+Metrocard - Other,metrocard,4959505.0,7.602481795833921
+Metrocard - Other,omny,0.0,0.0
+Metrocard - Seniors & Disability,metrocard,4079020.0,6.252776294175019
+Metrocard - Seniors & Disability,omny,0.0,0.0
+Metrocard - Students,metrocard,3984998.0,6.1086488977094655
+Metrocard - Students,omny,0.0,0.0
+Metrocard - Unlimited 30-Day,metrocard,10773171.0,16.514316733405032
+Metrocard - Unlimited 30-Day,omny,0.0,0.0
+Metrocard - Unlimited 7-Day,metrocard,11839429.0,18.14879578618596
+Metrocard - Unlimited 7-Day,omny,0.0,0.0
+OMNY - Fair Fare,metrocard,0.0,0.0
+OMNY - Fair Fare,omny,60.0,0.00016697969794040563
+OMNY - Full Fare,metrocard,0.0,0.0
+OMNY - Full Fare,omny,35377511.0,98.45543501105628
+OMNY - Other,metrocard,0.0,0.0
+OMNY - Other,omny,54395.0,0.15138101115780606
+OMNY - Seniors & Disability,metrocard,0.0,0.0
+OMNY - Seniors & Disability,omny,140564.0,0.3911889043549196
+OMNY - Students,metrocard,0.0,0.0
+OMNY - Students,omny,359982.0,1.0018280937330515
