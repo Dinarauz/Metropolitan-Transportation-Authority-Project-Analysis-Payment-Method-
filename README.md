@@ -27,6 +27,7 @@ Tools Used:
 - **Tableau** – for interactive dashboard development and visualization **Tableau Public**
 
 -**Key Findings from the NYC MTA Ridership Analysis (2019–2024):**
+-
 -Since implementing the OMNY payment method, OMNY usage has increased from 536K riders in 2020 to over 12.7M in 2024, showing widespread adoption of the contactless fare payment method.
 -By 2024, OMNY nearly equaled and overtook MetroCard in total ridership, marking a turning point in rider behavior towards the OMNY contactless payment method.
 -MetroCard ridership peaked in 2022 (16.8M) and has since declined to 11.1M in 2024, reflecting the gradual decrease of MetroCard fare systems.
