@@ -25,4 +25,7 @@ Tools Used:
 - **Python (pandas, numpy, seaborn, matplotlib, panel, datetime)** – for data cleaning and prep
 - **Jupyter Notebook**
 - **Tableau** – for interactive dashboard development and visualization **Tableau Public**
+
+Findings:
+-
   
