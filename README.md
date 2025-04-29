@@ -15,13 +15,14 @@ Raw Data:
 -https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s/about_data
 
 Project Objectives:
--Compare MetroCard vs OMNY usage from 2020 - 2024 (OMNY first implemented in May 2020)
+-Compared MetroCard vs OMNY usage from 2020 - 2024 (OMNY first implemented in May 2020)
 -Explore different fare class categories (Full Fare, Students, Seniors, etc)
 -Analyze ridership by NYC borough
+-Created an Interactive Panel so hidden data can be seen better, such as Staten Island was crushed in the Seaborn visualization
 -Visualize trends and insights (findings) with the interactive Tableau Dashboard
 
 Tools Used:
-- **Python (pandas, numpy)** – for data cleaning and prep
+- **Python (pandas, numpy, seaborn, matplotlib, panel, datetime)** – for data cleaning and prep
 - **Jupyter Notebook**
 - **Tableau** – for interactive dashboard development and visualization **Tableau Public**
   
