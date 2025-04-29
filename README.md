@@ -15,7 +15,7 @@ Raw Data:
 -https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s/about_data
 
 Project Objectives:
--Compare MetroCard vs OMNY usage from 2019 - 2024 (OMNY first implemented in May 2019)
+-Compare MetroCard vs OMNY usage from 2020 - 2024 (OMNY first implemented in May 2020)
 -Explore different fare class categories (Full Fare, Students, Seniors, etc)
 -Analyze ridership by NYC borough
 -Visualize trends and insights (findings) with the interactive Tableau Dashboard
