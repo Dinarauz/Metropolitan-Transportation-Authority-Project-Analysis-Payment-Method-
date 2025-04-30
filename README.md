@@ -3,7 +3,7 @@
 
 NYC MTA Transit Dashboard: MetroCard vs OMNY Analysis (2020–2024)
 
-In this project, I analyzed over two million (2700000) MTA transit records. First, web scraped the data using the API for each month, extracting 50,000 data points. Then removed the null values, renamed columns, and converted the data types. 
+In this project, I analyzed over two million (2700000) MTA transit records. First, web scraped the data using the API for each month seperately and extracting 50,000 data points. Then removed the null values, renamed columns, and converted the data types. 
 To explore trends in fare payment methods, fare class usage, and geographic ridership distribution across New York City.
 
 **Key Focus:**
