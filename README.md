@@ -13,7 +13,7 @@ To explore trends in fare payment methods, fare class usage, and geographic ride
 -https://public.tableau.com/app/profile/dinara.ibotova/viz/MTAproject_17455507165240/Dashboard1?publish=yes
 
 **Raw Data:**
--https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s/about_data
+https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s/about_data
 
 **Project Objectives:**
 -Compare MetroCard vs OMNY usage from 2020 - 2024 (OMNY first implemented in May 2020)
