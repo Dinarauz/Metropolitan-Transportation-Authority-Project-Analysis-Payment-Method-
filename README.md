@@ -23,7 +23,7 @@ https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c
 -Build an interactive Tableau Dashboard to make key insights easy to explore.
 
 **Tools Used:**
-- **Python (pandas, numpy, seaborn, matplotlib, panel, datetime)** – for data cleaning, analysis, and visualization.
+- **Python (pandas, numpy, seaborn, matplotlib, requests, panel)** – for data cleaning, analysis, and visualization.
    -Grouped the data, used Pivot tables
 - **Jupyter Notebook** for organizing and running the analysis.
 - **Tableau** – for interactive dashboard development and visualization **Tableau Public**
