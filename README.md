@@ -1,14 +1,21 @@
-# Metropolitan-Transportation-Authority-Project-Payment-Method-Analysis
+# MTA Transit Payment Method Analysis
 ![MTA_NYC_Logo_Black](https://github.com/user-attachments/assets/91752e2f-6eae-4ac9-b145-9b42c74c031f)
 
-NYC MTA Transit Dashboard: MetroCard vs OMNY Analysis (2020–2024)
+Data Analysis of NYC's Transportation Payment System Transition (2020 - 2024)
 
-In this project, I analyzed over two million (2700000) MTA transit records. First, web scraped the data using the API for each month seperately and extracting 50,000 data points. Then removed the null values, renamed columns, and converted the data types. 
-To explore trends in fare payment methods, fare class usage, and geographic ridership distribution across New York City.
+**Executive Summary:**
+Analyzede 2.7 million MTA Transit records to understand the shift from MetroCard to OMNY payment systems across NYC. Built interactive dashboards showcasting payment adoption patterns by borough, fare class, and demographic groups during teh critical transition period.
 
-**Key Focus:**
--Comparing **MetroCard** and **OMNY** adoption over time by fare class and borough.
+**Key Findings:**
+-OMNY usage grew from 536K to 12.7M riders, overtaking MetroCard by 2024 and marking a complete transformation in NYC transit payment behavior.
 
+**Business Problem:**
+**Industry Challenge:**
+-NYC's Metropolitan Transportaiton Authority needs to understand the adoption of their new contactless payment system (OMNY) launched in May 2020, while managing the phase-out of lagacy MetroCard infrastructure.
+
+**Analysis Objectives:**
+-**Payment System Transition:** Track MetroCard vs OMNY adoption across 4+years
+-**Demographic Analysis:**
 **Interactive Dashboard:**
 -https://public.tableau.com/app/profile/dinara.ibotova/viz/MTAproject_17455507165240/Dashboard1?publish=yes
 
