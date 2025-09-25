@@ -24,25 +24,13 @@ NYC's MTA launched OMNY contactless payment in May 2020 while phasing out MetroC
 -Interactive Tableau dashboard for exploration
 
 **Technical Implementation:**
--The complete analysis is available in the Jupyter notebook:
-**Industry Challenge:**
--NYC's Metropolitan Transportaiton Authority needs to understand the adoption of their new contactless payment system (OMNY) launched in May 2020, while managing the phase-out of lagacy MetroCard infrastructure.
+-The complete analysis is available in the Jupyter notebook: https://github.com/Dinarauz/Metropolitan-Transportation-Authority-Project-Analysis-Payment-Method-/blob/main/MTA_project-2.ipynb
 
-**Analysis Objectives:**
--**Payment System Transition:** Track MetroCard vs OMNY adoption across 4+years
--**Demographic Analysis:**
-**Interactive Dashboard:**
--https://public.tableau.com/app/profile/dinara.ibotova/viz/MTAproject_17455507165240/Dashboard1?publish=yes
-
-**Raw Data:**
-https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s/about_data
-
-**Project Objectives:**
--Compare MetroCard vs OMNY usage from 2020 - 2024 (OMNY first implemented in May 2020)
--Explore different fare class categories (Full Fare, Students, Seniors, etc)
--Break down ridership by NYC borough to uncover geographic trends.
--Created an Interactive Panel so less visible data can be seen better, such as Staten Island was crushed in the Seaborn visualization
--Build an interactive Tableau Dashboard to make key insights easy to explore.
+**Key Implementation Steps:**
+-API data extraction from NYC Open Data (50K records per month)
+-Data cleaning: null removal, column standardization, type conversion
+-Time series analysis and geographic mapping
+-Interactive visualizations using Panel for enhanced exploration
 
 **Tools Used:**
 - **Python (pandas, numpy, seaborn, matplotlib, requests, panel)** – for data cleaning, analysis, and visualization.
@@ -50,14 +38,25 @@ https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c
 - **Jupyter Notebook** for organizing and running the analysis.
 - **Tableau** – for interactive dashboard development and visualization **Tableau Public**
 
-**Key Findings from the NYC MTA Ridership Analysis (2019–2024):**
--Since implementing the OMNY payment method, OMNY usage has increased from 536K riders in 2020 to more than 12.7M in 2024, showing widespread adoption of the contactless fare payment method.
--By 2024, OMNY caught up and overtook MetroCard in total ridership, marking a turning point in rider behavior towards switching to the contactless system.
--MetroCard ridership peaked in 2022 (16.8M) but dropped each year after, ending at 11.1M in 2024, reflecting the gradual decrease of MetroCard fare systems.
--Discounted fare categories (e.g., Seniors, Students, Fair Fare) are still heavily used via MetroCard, likely due to slower adoption of OMNY to those groups.
--Compared to other Boroughs, Manhattan has the highest usage of OMNY full Fare, followed by Brooklyn, and Queens has slightly more usage of OMNY vs Metrocard.
--Staten Island and Bronx still leaned more heavily on MetroCards than OMNY.
+**What I Found in the MTA Data (2020–2024):**
+-OMNY went from 536K users in 2020 to 12.7M in 2024 - pretty much everyone switched to contactless payment
+-OMNY finally passed MetroCard usage in 2024, which was the big turning point I was tracking
+-MetroCard hit its peak in 2022 at 16.8M users, then dropped to 11.1M by 2024 as people moved away from it
+-Seniors and students are still mostly using MetroCard. They haven't switched to OMNY as much as other riders
+-Manhattan uses OMNY the most, Brooklyn is second, Queens is pretty balanced between both systems
+-Staten Island and the Bronx still prefer MetroCard over OMNY
 
-**Pandemic impact:**
--Ridership dropped in 2020 due to COVID-19
--MetroCard usage bounced back strongly in 2021, while OMNY kept growing steadily after.
+**COVID Effect:**
+-Everything dropped in 2020 because of the pandemic
+-MetroCard came back strong in 2021, but OMNY just kept growing steadily the whole time
+
+**What This Means for MTA:** Looking at these patterns, MTA should probably:
+-Focus OMNY outreach on seniors and students since they're still using MetroCard more. A lot of these groups get physical MetroCards through discount programs, so if MTA could work with schools and senior centers to distribute digital OMNY cards instead, that would probably speed up the transition
+-Do more OMNY promotion in the Bronx and Staten Island where people are still using MetroCard
+-We can use these usage trends to figure out when they can actually shut down the MetroCard system
+
+**Interactive Dashboard:**
+-https://public.tableau.com/app/profile/dinara.ibotova/viz/MTAproject_17455507165240/Dashboard1?publish=yes
+
+**Data Source (Raw Data):**
+https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s/about_data
