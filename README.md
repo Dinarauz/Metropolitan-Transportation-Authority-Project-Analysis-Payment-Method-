@@ -7,13 +7,24 @@ Analyzed 2.7 million MTA transit records to track the shift from MetroCard to OM
 
 **Key Result:** OMNY usage grew from 536K to 12.7M riders (2,269% increase), overtaking MetroCard by 2024.
 
-**The Problem:**
+**Business Problem:**
 NYC's MTA launched OMNY contactless payment in May 2020 while phasing out MetroCard systems. They hired us to understand adoption patterns across different demographics and geographic areas to optimize the transition.
 
-**Key Findings:**
--OMNY usage grew from 536K to 12.7M riders, overtaking MetroCard by 2024 and marking a complete transformation in NYC transit payment behavior.
+**Data Pipeline:**
+-Web scraped NYC Open Data API (50K+ records per month)
+-Processed 2.7M transit records from 2020-2024
+-Cleaned data: removed nulls, standardized columns, converted data types
+-Mapped ridership by NYC borough and fare class
 
-**Business Problem:**
+**Analysis & Visualization:**
+
+-Time series analysis of payment method adoption
+-Demographic segmentation by fare types (Full Fare, Students, Seniors)
+-Geographic breakdown across 5 NYC boroughs
+-Interactive Tableau dashboard for exploration
+
+**Technical Implementation:**
+-The complete analysis is available in the Jupyter notebook:
 **Industry Challenge:**
 -NYC's Metropolitan Transportaiton Authority needs to understand the adoption of their new contactless payment system (OMNY) launched in May 2020, while managing the phase-out of lagacy MetroCard infrastructure.
 
